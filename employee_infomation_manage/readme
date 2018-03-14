@@ -1,0 +1,17 @@
+目录介绍
+
+employee_infomation_manage  程序主目录
+|
+|
+bin  程序调用脚本
+|
+|
+conf  程序调用的数据文件配置
+|
+|
+core  主程序文件
+|
+|
+readme  程序介绍
+
+运行程序,执行bin目录下的employee脚本
