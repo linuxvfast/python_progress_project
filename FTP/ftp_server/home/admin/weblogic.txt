@@ -1,0 +1,34 @@
+
+http://admin.315i.com/adv/adv_manage/index.jsp
+
+/nchall/admin/adv/WEB-INF/classes/com/adv/util/file
+/home/sysadmin/nchall/admin.bak/adv/WEB-INF/classes/com/adv/util/file/FileOperate.class
+/nchall/admin.bak/adv/WEB-INF/classes/com/adv/util/file/FileOperate.class
+/root/nchall_admin_20150902/admin/adv/WEB-INF/classes/com/adv/util/file/FileOperate.class
+/docroot/aaa/adv_manage/WebRoot/WEB-INF/classes/com/adv/util/file/FileOperate.class
+/backup/nchall/admin/adv/WEB-INF/classes/com/adv/util/file/FileOperate.class
+/backup/nchall/admin.bak/adv/WEB-INF/classes/com/adv/util/file/FileOperate.class
+
+225  weblogic 缓存文件路径
+/usr/local/bea/netcert/domains/search/myserver/.wlnotdelete
+
+/home/sysadmin/wltemp
+-rw-------  1 nobody   4294967295   505656 2014-12-26  _post_10399_100_1419586380_5
+
+
+
+
+/usr/local/nagios/libexec/check_traffic.sh -V 2c -C nagios -H localhost -I 2 -w 12,30 -c 15,35 -M -b
+
+
+./samples/server/medrec/setup/config/config.xml
+./samples/domains/workshop/config.xml
+./samples/domains/medrec/config.xml
+./samples/domains/examples/config.xml
+
+
+/configure--with-mysql-inc=/usr/include/mysql --with-mysql-lib=/usr/lib/mysql--enable-mysql --with-ndo2db-user=nagios --with-ndo2db-group=nagios&&make &&make install
+
+wget http://downloads.sourceforge.net/project/nagios/ndoutils-1.x/ndoutils-1.4b9/ndoutils-1.4b9.tar.gz 
+tar xzf ndoutils-1.4b9.tar.gz;cd ndoutils-1.4b9 ;./configure--with-mysql-inc=/usr/include/mysql --with-mysql-lib=/usr/lib/mysql--enable-mysql --with-ndo2db-user=nagios --with-ndo2db-group=nagios&&make &&make install 
+接下来配置ndoutils：
